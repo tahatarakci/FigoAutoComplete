@@ -1,0 +1,24 @@
+{
+  "name": "figoautocomplete",
+  "version": "1.0.0",
+  "description": "AutoComplete component for React.",
+  "main": "FigoAutoComplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahatarakci/FigoAutoComplete.git"
+  },
+  "keywords": [
+    "Figo",
+    "Auto",
+    "Complete"
+  ],
+  "author": "FigoPara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahatarakci/FigoAutoComplete/issues"
+  },
+  "homepage": "https://github.com/tahatarakci/FigoAutoComplete#readme"
+}

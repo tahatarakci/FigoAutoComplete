@@ -75,4 +75,5 @@ function Autocomplete(props) {
     </div>
   );
 }
-export default Autocomplete;
+
+module.exports = Autocomplete
