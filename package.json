@@ -1,6 +1,6 @@
 {
   "name": "figoautocomplete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AutoComplete Component for React",
   "main": "FigoAutoComplete.js",
   "scripts": {
