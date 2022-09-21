@@ -1,5 +1,5 @@
 {
-  "name": "@tahatarakci/figoautocomplete",
+  "name": "figoautocomplete",
   "version": "1.0.0",
   "description": "AutoComplete Component for React",
   "main": "FigoAutoComplete.js",
