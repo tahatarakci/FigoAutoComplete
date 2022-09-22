@@ -28,7 +28,7 @@ value => Basic react value props
 
 # Usage 
 
-```
+```javascript
 <Autocomplete
     inputProps= {{ className: form-control , placeholder: Some texts }}
     items={autoCompleteData}
