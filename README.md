@@ -40,6 +40,6 @@ value => Basic react value props
     onChange={(event, value) => {
         onChangeMethod(value);
     }}
-    test
+    deneme
  />
  ```
