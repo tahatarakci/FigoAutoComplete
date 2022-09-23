@@ -40,6 +40,20 @@ value => Basic react value props
     onChange={(event, value) => {
         onChangeMethod(value);
     }}
-    deneme
+ />
+ ```
+
+```javascript
+<Autocomplete
+    inputProps= {{ className: form-control , placeholder: Some texts }}
+    items={autoCompleteData}
+    value={value}
+    onSelect={(value, item) => {
+         setValue(item.value);
+         setValue(value);
+    }}
+    onChange={(event, value) => {
+        onChangeMethod(value);
+    }}
  />
  ```
